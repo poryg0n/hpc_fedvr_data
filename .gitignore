@@ -1,0 +1,5 @@
+# fully developped data files
+exp_*
+
+# plots
+*.png
